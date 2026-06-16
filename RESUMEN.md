@@ -71,6 +71,8 @@ No hay ley específica de IA. Rige de costado la **Ley 25.326** (2000), pensada 
 | F06 | Funcionamiento técnico de COMPAS (Practitioner's Guide y otros) | [fuentes/06-funcionamiento-tecnico-compas.md](fuentes/06-funcionamiento-tecnico-compas.md) |
 | F07 | AI Act europeo (Anexo III, alto riesgo) | [fuentes/07-marco-legal-ai-act.md](fuentes/07-marco-legal-ai-act.md) |
 | F08 | Marco legal argentino (Ley 25.326 y proyectos 2025/2026) | [fuentes/08-marco-legal-argentina.md](fuentes/08-marco-legal-argentina.md) |
+| F09 | Contexto social: disparidad racial y encarcelamiento en EE.UU. (The Sentencing Project) | [fuentes/09-contexto-social-racismo-encarcelamiento.md](fuentes/09-contexto-social-racismo-encarcelamiento.md) |
+| F10 | Ética de la justicia algorítmica (Elish "moral crumple zones"; automation bias; justicia actuarial) | [fuentes/10-etica-justicia-algoritmica.md](fuentes/10-etica-justicia-algoritmica.md) |
 
 ---
 
